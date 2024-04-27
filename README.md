@@ -11,7 +11,6 @@ I'm Anis haddouche, a passionate Data Scientist!
 📫 You can reach me via email at [anisahdd@email.com](anisahdd:your@email.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/anismhaddouche](https://www.linkedin.com/in/anis-m-haddouche-a8667175/)).
 
 
-
 Feel free to explore my repositories to see some of my projects and contributions in the field of Data Science!
 
-![Anis's GitHub stats](https://github-readme-stats.vercel.app/api?username=anismhaddouche&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anismhaddouche&langs_count=8)
