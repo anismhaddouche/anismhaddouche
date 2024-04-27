@@ -14,4 +14,4 @@ I'm Anis haddouche, a passionate Data Scientist!
 
 Feel free to explore my repositories to see some of my projects and contributions in the field of Data Science!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anis's GitHub stats](https://github-readme-stats.vercel.app/api?username=anismhaddouche&show_icons=true&theme=transparent)
