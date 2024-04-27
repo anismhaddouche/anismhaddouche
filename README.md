@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**anismhaddouche/anismhaddouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anis haddouche, a passionate Data Scientist!
 
-Here are some ideas to get you started:
+🔭 Currently, I'm working on refining machine learning models for supply chain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm continuously learning and exploring new techniques in data engineering and MLOps to enhance my skills.
+
+💬 Ask me about anything related to data analysis, machine learning, or data engineering—I'm always up for a stimulating discussion!
+
+📫 You can reach me via email at [anisahdd@email.com](anisahdd:your@email.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/anismhaddouche](https://www.linkedin.com/in/anis-m-haddouche-a8667175/)).
+
+
+
+Feel free to explore my repositories to see some of my projects and contributions in the field of Data Science!
